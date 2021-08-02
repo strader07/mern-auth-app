@@ -1,3 +1,4 @@
 module.exports = {
-  mongoURI: "mongodb+srv://admin:AH1ENY828KTDC0bx@react-node-crude-app.eia8i.mongodb.net/mern-auth?retryWrites=true"
+  mongoURI: "mongodb+srv://admin:AH1ENY828KTDC0bx@react-node-crude-app.eia8i.mongodb.net/mern-auth?retryWrites=true",
+  secretOrKey: "tYqMm_L1DBgbCVDOsL766An1tGsshNcAmb2XoxdDws5bTiCTB2JWLNuBXhJ8qkIKxw9zQrWtcmhGEQ1ayWBa8IbdWH8qm1s1e7TkqT-h5EAFLCKG6tKGn4ES0N3qnW6v8ELzFUS6uN202jLUGB1CDcXkKDB8zyiwZuIk0lbKn0wLP5YlTTUfX30N0gjKvbplrugaDk3fSw4N2G2-MHCVqM8tYrm5iTi6dnuYvG1cJnPIMTkKSaOkeUXloLdjzflC_B5jpDPiAUPZ1AV_iqWzYD5B5AzKtc5cVsftgWyxA-qeVKws1O73biYd67pFTxzdwWa1hQxnGESqlInUOm6ieQ"
 };
